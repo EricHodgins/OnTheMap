@@ -11,15 +11,15 @@
 		7A081B301C4B0BA7006AE12A /* OTMStudent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A081B2F1C4B0BA7006AE12A /* OTMStudent.swift */; };
 		7A081B321C4B5E2B006AE12A /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A081B311C4B5E2B006AE12A /* TabBarController.swift */; };
 		7A0B17D61C6814A8003014F8 /* OTMFacebookClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A0B17D51C6814A8003014F8 /* OTMFacebookClient.swift */; };
-		7A0B17DB1C6822C7003014F8 /* FBSDKCoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A0B17DA1C6822C7003014F8 /* FBSDKCoreKit.framework */; };
-		7A0B17DD1C6832B3003014F8 /* Bolts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A0B17DC1C6832B3003014F8 /* Bolts.framework */; };
 		7A0B1E7E1C5428C600AECDEA /* OTMConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A0B1E7D1C5428C600AECDEA /* OTMConstants.swift */; };
 		7A0B1E801C5452B200AECDEA /* OTMConvenience.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A0B1E7F1C5452B200AECDEA /* OTMConvenience.swift */; };
 		7A0B239C1C4DE78E000258F5 /* OTMClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A0B239B1C4DE78E000258F5 /* OTMClient.swift */; };
 		7A0BF7851C61C22F004E756F /* CustomStudentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A0BF7841C61C22E004E756F /* CustomStudentCell.swift */; };
 		7A0C1D7F1C645DC40099C838 /* OTMParseClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A0C1D7E1C645DC40099C838 /* OTMParseClient.swift */; };
 		7A0C1D831C6462760099C838 /* OTMUdacityClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A0C1D821C6462760099C838 /* OTMUdacityClient.swift */; };
-		7A0C71A51C69958F0040EDEA /* FBSDKLoginKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A0C71A41C69958F0040EDEA /* FBSDKLoginKit.framework */; };
+		7A0D459F1C72B8470014AA79 /* Bolts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A0D459C1C72B8470014AA79 /* Bolts.framework */; };
+		7A0D45A01C72B8470014AA79 /* FBSDKCoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A0D459D1C72B8470014AA79 /* FBSDKCoreKit.framework */; };
+		7A0D45A11C72B8470014AA79 /* FBSDKLoginKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A0D459E1C72B8470014AA79 /* FBSDKLoginKit.framework */; };
 		7A0DA8D41C59E2C80086D363 /* RefreshProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A0DA8D31C59E2C80086D363 /* RefreshProtocol.swift */; };
 		7A0DCC2E1C670EAD0007EF5D /* TabBarControllerUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A0DCC2D1C670EAD0007EF5D /* TabBarControllerUI.swift */; };
 		7A0DF2EA1C5741A0001FE3C0 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A0DF2E91C5741A0001FE3C0 /* Reachability.m */; };
@@ -42,15 +42,15 @@
 		7A081B2F1C4B0BA7006AE12A /* OTMStudent.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OTMStudent.swift; sourceTree = "<group>"; };
 		7A081B311C4B5E2B006AE12A /* TabBarController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
 		7A0B17D51C6814A8003014F8 /* OTMFacebookClient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OTMFacebookClient.swift; sourceTree = "<group>"; };
-		7A0B17DA1C6822C7003014F8 /* FBSDKCoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FBSDKCoreKit.framework; path = ../../../../Documents/FacebookSDK/FBSDKCoreKit.framework; sourceTree = "<group>"; };
-		7A0B17DC1C6832B3003014F8 /* Bolts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Bolts.framework; path = ../../../../Documents/FacebookSDK/Bolts.framework; sourceTree = "<group>"; };
 		7A0B1E7D1C5428C600AECDEA /* OTMConstants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OTMConstants.swift; sourceTree = "<group>"; };
 		7A0B1E7F1C5452B200AECDEA /* OTMConvenience.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OTMConvenience.swift; sourceTree = "<group>"; };
 		7A0B239B1C4DE78E000258F5 /* OTMClient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OTMClient.swift; sourceTree = "<group>"; };
 		7A0BF7841C61C22E004E756F /* CustomStudentCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomStudentCell.swift; sourceTree = "<group>"; };
 		7A0C1D7E1C645DC40099C838 /* OTMParseClient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OTMParseClient.swift; sourceTree = "<group>"; };
 		7A0C1D821C6462760099C838 /* OTMUdacityClient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OTMUdacityClient.swift; sourceTree = "<group>"; };
-		7A0C71A41C69958F0040EDEA /* FBSDKLoginKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FBSDKLoginKit.framework; path = ../../../../Documents/FacebookSDK/FBSDKLoginKit.framework; sourceTree = "<group>"; };
+		7A0D459C1C72B8470014AA79 /* Bolts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Bolts.framework; sourceTree = "<group>"; };
+		7A0D459D1C72B8470014AA79 /* FBSDKCoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FBSDKCoreKit.framework; sourceTree = "<group>"; };
+		7A0D459E1C72B8470014AA79 /* FBSDKLoginKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FBSDKLoginKit.framework; sourceTree = "<group>"; };
 		7A0DA8D31C59E2C80086D363 /* RefreshProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RefreshProtocol.swift; sourceTree = "<group>"; };
 		7A0DCC2D1C670EAD0007EF5D /* TabBarControllerUI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabBarControllerUI.swift; sourceTree = "<group>"; };
 		7A0DF2E71C57419F001FE3C0 /* On The Map-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "On The Map-Bridging-Header.h"; sourceTree = "<group>"; };
@@ -77,9 +77,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7A0B17DB1C6822C7003014F8 /* FBSDKCoreKit.framework in Frameworks */,
-				7A0B17DD1C6832B3003014F8 /* Bolts.framework in Frameworks */,
-				7A0C71A51C69958F0040EDEA /* FBSDKLoginKit.framework in Frameworks */,
+				7A0D459F1C72B8470014AA79 /* Bolts.framework in Frameworks */,
+				7A0D45A01C72B8470014AA79 /* FBSDKCoreKit.framework in Frameworks */,
+				7A0D45A11C72B8470014AA79 /* FBSDKLoginKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -111,9 +111,9 @@
 		7A0B17D71C682230003014F8 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				7A0C71A41C69958F0040EDEA /* FBSDKLoginKit.framework */,
-				7A0B17DC1C6832B3003014F8 /* Bolts.framework */,
-				7A0B17DA1C6822C7003014F8 /* FBSDKCoreKit.framework */,
+				7A0D459C1C72B8470014AA79 /* Bolts.framework */,
+				7A0D459D1C72B8470014AA79 /* FBSDKCoreKit.framework */,
+				7A0D459E1C72B8470014AA79 /* FBSDKLoginKit.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -329,7 +329,7 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
-				FRAMEWORK_SEARCH_PATHS = /Users/erichodgins/Documents/FacebookSDK;
+				FRAMEWORK_SEARCH_PATHS = "";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -374,7 +374,7 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				FRAMEWORK_SEARCH_PATHS = /Users/erichodgins/Documents/FacebookSDK;
+				FRAMEWORK_SEARCH_PATHS = "";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -396,7 +396,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				FRAMEWORK_SEARCH_PATHS = /Users/erichodgins/Documents/FacebookSDK;
+				FRAMEWORK_SEARCH_PATHS = (
+					/Users/erichodgins/Documents/FacebookSDK,
+					"$(PROJECT_DIR)/On",
+					The,
+					Map,
+				);
 				INFOPLIST_FILE = "On The Map/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.hodginsEric.On-The-Map";
@@ -412,7 +417,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				FRAMEWORK_SEARCH_PATHS = /Users/erichodgins/Documents/FacebookSDK;
+				FRAMEWORK_SEARCH_PATHS = (
+					/Users/erichodgins/Documents/FacebookSDK,
+					"$(PROJECT_DIR)/On",
+					The,
+					Map,
+				);
 				INFOPLIST_FILE = "On The Map/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.hodginsEric.On-The-Map";
