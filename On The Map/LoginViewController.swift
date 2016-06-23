@@ -28,7 +28,7 @@ class LoginViewController: UIViewController {
         passwordTextField.delegate = self;
         
         //Configure tap recognizer to hide keyboard
-        let tapRecognizer = UITapGestureRecognizer(target: self, action: "handleSingleTap:")
+        let tapRecognizer = UITapGestureRecognizer(target: self, action: #selector(LoginViewController.handleSingleTap(_:)))
         tapRecognizer.numberOfTapsRequired = 1
         tapRecognizer.delegate = self
         view.addGestureRecognizer(tapRecognizer)

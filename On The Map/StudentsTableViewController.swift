@@ -69,7 +69,7 @@ class StudentsTableViewController: UIViewController, UITableViewDelegate, UITabl
         
             let cell = tableView.dequeueReusableCellWithIdentifier("studentCell", forIndexPath: indexPath) as! CustomStudentCell
             cell.findStudentButton.tag = indexPath.row
-            cell.findStudentButton.addTarget(self, action: "locateStudentOnMap:", forControlEvents: .TouchUpInside)
+            cell.findStudentButton.addTarget(self, action: #selector(StudentsTableViewController.locateStudentOnMap(_:)), forControlEvents: .TouchUpInside)
             
             let student = OTMClient.sharedInstance.allStudents[indexPath.row]
             
